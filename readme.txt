@@ -2,8 +2,12 @@ Projet Gestionnaire de Fichiers ODT
 ===================================
 
 Logiciel réalisé par Nacim Berrabah et Hakim B****.
-Date: Décembre 2014.
 -------------
+
+L'objectif de se programme est de lister les fichiers de type "odt" placés sous l'arborescence d'un dossier source précédemment renseigné.
+Une fois la liste généré, vous avez à disposition un moteur de recherche dans lequel vous pouvez entrer un ou plusierus mots. 
+Le moteur de recherche se limite à rechercher les mots dans les titres des documents (balises html <h> de toutes tailles).
+La liste des fichiers dans lesquels on peut retrouver vos mots recherchés est enfin générée.
 
 
 MODE CONSOLE DU LOGICIEL
